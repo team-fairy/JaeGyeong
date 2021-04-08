@@ -17,12 +17,12 @@
 
 ## Codes
 ### Train
-- `python train.py`
+- `$ python train.py`
 - `train()` for single model
 - `train_multi()` for multi head model
 
 ### Evaluate
-- `python evaluation.py`
+- `$ python evaluation.py`
 - `evaluation()` for three independent model(age / gender / mask)
 - `evaluation_age_gender()` for two independent model(age_gender / mask)
 - `evaluation_all()` for single model
